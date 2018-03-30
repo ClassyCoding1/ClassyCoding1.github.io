@@ -1,0 +1,64 @@
+body
+{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: 800px;
+    margin: auto;
+}
+header
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: 800px;
+    margin: auto;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+.HeaderImageContainer
+{
+    width: 100%;
+    max-height: 300px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.HeaderImage
+{
+    width: 100%;
+}
+.NoStyleLink
+{
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+}
+strong
+{
+    color: black;
+}
+img
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+.floater
+{
+    height: 50px;
+    background: blue;
+    top: 0;
+}
+span
+{
+    color: aqua;
+}
